@@ -28,7 +28,7 @@ This method is effective for real-time anomaly detection because:
 
 Here’s an example of the real-time visualization showing detected anomalies:
 
-![Figure_2](https://github.com/user-attachments/assets/0aef34ad-54df-4fa1-a50a-9e432a49f22e)
+ ![Figure_1](https://github.com/user-attachments/assets/a4574898-5a53-4f35-80f8-ccc289d669ab)
 
 
 ## Prerequisites
