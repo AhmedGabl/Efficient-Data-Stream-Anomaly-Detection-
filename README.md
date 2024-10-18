@@ -30,7 +30,6 @@ Here’s an example of the real-time visualization showing detected anomalies:
 
 ![Figure_2](https://github.com/user-attachments/assets/0aef34ad-54df-4fa1-a50a-9e432a49f22e)
 
-*Be sure to include a screenshot of your actual output and save it as `screenshot.png` in the project root.*
 
 ## Prerequisites
 
