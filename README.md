@@ -49,7 +49,7 @@ Here’s an example of the real-time visualization showing detected anomalies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/anomaly-detection.git
+   git clone https://github.com/AhmedGabl/anomaly-detection.git
    ```
 
 2. **Navigate to the project directory**:
@@ -97,3 +97,11 @@ The script includes several error handling mechanisms:
 - **`anomaly_detection.py`**: The main Python script for generating data, detecting anomalies, and visualizing results.
 - **`requirements.txt`**: Contains the minimal list of external libraries required for the project.
 - **`screenshot.png`**: (Optional) A screenshot showing the real-time detection output, which can be included after running the project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+This version of the README covers the project’s key aspects, focusing on the requirements such as minimal external libraries, algorithm explanation, and robust error handling. Let me know if you need further adjustments!
