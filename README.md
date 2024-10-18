@@ -4,7 +4,6 @@
 ## Project Overview
 
 This project demonstrates an efficient implementation of real-time anomaly detection in a continuous data stream. The Python 3.x-based solution simulates a data stream with seasonal patterns, trends, and noise, while occasionally injecting anomalies (spikes). The detection algorithm uses a rolling Z-score approach, which is both effective and computationally efficient for continuous, unbounded streams of data.
-![Figure_2](https://github.com/user-attachments/assets/0aef34ad-54df-4fa1-a50a-9e432a49f22e)
 
 ## Features
 
@@ -29,7 +28,7 @@ This method is effective for real-time anomaly detection because:
 
 Here’s an example of the real-time visualization showing detected anomalies:
 
-![Anomaly Detection Screenshot](screenshot.png)
+![Figure_2](https://github.com/user-attachments/assets/0aef34ad-54df-4fa1-a50a-9e432a49f22e)
 
 *Be sure to include a screenshot of your actual output and save it as `screenshot.png` in the project root.*
 
